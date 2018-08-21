@@ -1,0 +1,29 @@
+[2018-08-17 16:22:55] [ERROR] [app_auto_project.public.log_app] dlajffdslfjlsjfljl
+[2018-08-17 16:27:12] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', "//android.widget.EditText[@text='请输入手机']")
+[2018-08-17 16:27:17] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', "//android.widget.EditText[@text='请输入手机']")
+[2018-08-17 16:29:26] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', "//android.widget.EditText[@text='请输入手机号']")
+[2018-08-17 16:29:35] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', "//android.widget.EditText[@text='请输入4位验证码']")
+[2018-08-17 16:29:35] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', "//android.widget.EditText[@text='请输入4位验证码']")
+[2018-08-17 16:29:41] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', '//android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup[1]')
+[2018-08-17 16:29:41] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', '//android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup[1]')
+[2018-08-17 16:29:41] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', '//android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup[1]')
+[2018-08-17 17:46:30] [ERROR] [app_auto_project.public.log_app] dlajffdslfjlsjfljl
+[2018-08-20 09:57:56] [ERROR] [app_auto_project.public.log_app] dlajffdslfjlsjfljl
+[2018-08-20 10:01:11] [ERROR] [app_auto_project.public.log_app] dlajffdslfjlsjfljl
+[2018-08-20 10:34:48] [ERROR] [app_auto_project.public.log_app] 输入3838失败！
+[2018-08-20 10:34:48] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', '//android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup[1]')
+[2018-08-20 10:34:48] [ERROR] [app_auto_project.public.log_app] 点击('xpath', '//android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup[1]')失败！
+[2018-08-21 11:10:19] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', "//android.widget.EditText[@text='请输入手机号']")
+[2018-08-21 11:10:20] [ERROR] [app_auto_project.public.log_app] 输入17310520712失败！
+[2018-08-21 11:10:54] [ERROR] [app_auto_project.public.log_app] 输入3838失败！
+[2018-08-21 11:10:59] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', '//android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup[1]')
+[2018-08-21 11:10:59] [ERROR] [app_auto_project.public.log_app] 点击('xpath', '//android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup[1]')失败！
+[2018-08-21 11:16:58] [ERROR] [app_auto_project.public.log_app] 输入3838失败！
+[2018-08-21 11:16:58] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', '//android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup[1]')
+[2018-08-21 11:16:58] [ERROR] [app_auto_project.public.log_app] 点击('xpath', '//android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup[1]')失败！
+[2018-08-21 15:17:37] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', "//android.widget.EditText[@text='请输入手机号']")
+[2018-08-21 15:17:37] [ERROR] [app_auto_project.public.log_app] 输入17310520712失败！
+[2018-08-21 15:17:45] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', "//android.widget.EditText[@text='请输入4位验证码']")
+[2018-08-21 15:17:45] [ERROR] [app_auto_project.public.log_app] 输入3838失败！
+[2018-08-21 15:17:51] [ERROR] [app_auto_project.public.log_app] 没有找到元素('xpath', '//android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup[1]')
+[2018-08-21 15:17:51] [ERROR] [app_auto_project.public.log_app] 点击('xpath', '//android.view.ViewGroup/android.view.ViewGroup[5]/android.view.ViewGroup[1]')失败！
